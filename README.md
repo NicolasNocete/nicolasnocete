@@ -17,6 +17,7 @@ Profesor de Programación, Bases de Datos y Programación de Inteligencia Artifi
 * Herramientas & DevOps: Git, GitHub Actions, Docker, Vercel, Netlify
 
 💼 My DevCard
+
 <a href="https://app.daily.dev/nicolasnocete"><img src="https://api.daily.dev/devcards/v2/xSWjce5oeoeqIqjtlACer.png?type=default&r=d4k" width="356" alt="Nicolas Nocete's Dev Card"/></a>
 
 
